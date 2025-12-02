@@ -694,7 +694,9 @@ footer a:hover {
   }
 
   .profile-image-container {
-    max-width: 250px;
+    max-width: 220px;
+    width: 220px;
+    height: 250px;
     margin: 0 auto;
   }
 
@@ -711,6 +713,11 @@ footer a:hover {
     padding: 4rem 2rem 3rem;
     gap: 2rem;
     text-align: center;
+  }
+
+  .hero-image {
+    order: -1;
+    margin-bottom: 1rem;
   }
 
   .hero-content {
@@ -797,7 +804,9 @@ footer a:hover {
   }
 
   .profile-image-container {
-    max-width: 200px;
+    max-width: 180px;
+    width: 180px;
+    height: 210px;
   }
 
   .project-thumb {
@@ -881,7 +890,9 @@ footer a:hover {
   }
 
   .profile-image-container {
-    max-width: 180px;
+    max-width: 160px;
+    width: 160px;
+    height: 185px;
   }
 
   .btn {
